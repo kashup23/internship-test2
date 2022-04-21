@@ -1,1 +1,3 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+Kindly check the output folder for the answers.
+The answers are in the form of ipynb files, so please run them in Google Colab or Anaconda.
+Thank You.
